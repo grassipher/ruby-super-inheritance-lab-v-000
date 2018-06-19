@@ -2,7 +2,7 @@ class ChattyStudent < Student
   
   def hello
     super
-    "How are you doing today? I'm okay, but I'm kind of tired. Did you watch The Walking Dead last night? You didn't?! Oh man, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died..."
+    "How are you doing today?\nI'm okay, but I'm kind of tired.\nDid you watch The Walking Dead last night?\nYou didn't?!\nOh man, it was so crazy!\nWhat, you don't want any spoilers\nOkay well let me just tell you who died..."
   end
   
   def raise_hand
